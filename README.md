@@ -54,7 +54,7 @@ This is a simple Tic-Tac-Toe game implemented using Python and the Tkinter libra
 3. **Run the script:**
 
     ```bash
-    python Tic_tac_toe.py
+    python main.py
     ```
 
 ## Game Instructions
